@@ -12,12 +12,18 @@ h1 {
   margin-bottom: 20px;
 }
 
-.dados {
+.data {
   font-size: 1.2em;
 }
 
 span {
   font-weight: bold;
   margin-left: 10px;
-  color: #007bff; /* Cor azul para os valores */
+  color: #007bff;
+}
+.chartContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
 }
