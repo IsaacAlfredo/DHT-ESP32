@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.dados {
+  font-size: 1.2em;
+}
+
+span {
+  font-weight: bold;
+  margin-left: 10px;
+  color: #007bff; /* Cor azul para os valores */
+}
