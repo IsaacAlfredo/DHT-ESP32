@@ -2,7 +2,7 @@ let th;
 let hh;
 
 function resp(item, th) {
-  const response = fetch("http://localhost:3000/" + item)
+  const response = fetch("http://15.228.159.221:3000/" + item)
     .then((responseData) => {
       return responseData.json();
     })
