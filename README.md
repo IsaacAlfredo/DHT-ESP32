@@ -1,6 +1,6 @@
 # DHT ESP32
 
-Vídeo: https://youtu.be/QNyamHbZpSw
+Vídeo: https://youtu.be/UvXTTITbLfA
 
 Alunos: Arthur Vinicius Vieira Santos, Isaac Alfredo de Freitas Silva, Luis Henrique Amorim da Silva e Nicoli Valentim dos Santos
 
